@@ -1,4 +1,4 @@
-const { ApolloServer, gql } = require('apollo-server');
+const { ApolloServer } = require('apollo-server');
 const { typeDefs, resolvers, fetchData } = require('./graphql');
 const { startDatabase } = require('./rss');
 require('dotenv').config();

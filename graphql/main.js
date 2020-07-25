@@ -1,7 +1,5 @@
-const graphqlHTTP = require('express-graphql');
 const { db } = require('../database');
 const { sendEmail } = require('../sendgrid/sendEmail');
-const moment = require('moment');
 
 const POSTS = new Map();
 
