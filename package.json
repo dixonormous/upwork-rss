@@ -23,7 +23,7 @@
     "graphql": "^14.0.2",
     "graphql-tag": "^2.9.2",
     "graphql-tools": "^6.0.15",
-    "moment": "^2.27.0",
+    "moment": "^2.29.4",
     "rss-parser": "^3.9.0",
     "typeorm": "^0.2.25"
   },
